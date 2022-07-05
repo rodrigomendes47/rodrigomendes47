@@ -7,7 +7,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Deloitte, Brazil**
-- 🧑‍💼 Developing projects using Data Science and Artificial Intelligence
+- 🧑‍💼 Developing projects using Data Science and Artificial Intelligence using Python
 - 📓 Currently improving my Web Development skills using React (front end) and NodeJS (back end) 
 - ⚙️ I use daily: `.ipynb`,`.py`, `.js`, `.html`, `.css`, `.ts`
 

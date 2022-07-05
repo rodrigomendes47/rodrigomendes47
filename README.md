@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Mundo! | Hello World! 🌍👋
 
-<!--
-**rodrigomendes47/rodrigomendes47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer | Software Engineer from São Paulo, Brazil 🇧🇷 
 
-Here are some ideas to get you started:
+- 💡 Areas of Interest: Internet of Things, Artificial Intelligence, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🏢 I'm currently working at **Deloitte, Brazil**
+- 🧑‍💼 Developing projects using Data Science and Artificial Intelligence
+- 📓 Currently improving my Web Development skills using React (front end) and NodeJS (back end) 
+- ⚙️ I use daily: `.ipynb`,`.py`, `.js`, `.html`, `.css`, `.ts`
+
+- 🔥 “Life would be tragic if it weren't funny.” ― Stephen Hawking
